@@ -1,8 +1,12 @@
+<!-- =========================
+🌌 FUTURISTIC GITHUB PROFILE
+========================= -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0F172A&height=300&section=header&text=Nashra%20Fatima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=58)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e293b,100:7c3aed&text=Nashra%20Fatima&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=Data%20Analytics%20%7C%20AI%20%26%20ML&descAlignY=60&animation=fadeIn"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7C9CFF&center=true&vCenter=true&width=900&lines=Crafting+Intelligent+Digital+Experiences;AI+%26+Data+Analytics+Explorer;Building+Creative+Tech+That+Feels+Alive;Robotics+%7C+Automation+%7C+Innovation;Turning+Ideas+Into+Futuristic+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Crafting+Intelligent+Digital+Experiences;AI+%26+Data+Analytics;Building+Creative+Technology;Robotics+%7C+Automation+%7C+Innovation;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,51 +17,65 @@
 ```yaml
 Name: Nashra Fatima
 Role: AI & Data Analytics
-Focus: Intelligent Systems + Creative Technology
-Currently Learning:
+
+Focus:
   - Artificial Intelligence
+  - Machine Learning
   - Data Analytics
   - Automation
+  - Creative Technology
+
+Currently Learning:
+  - AI & ML
   - Data Science
+  - Advanced Analytics
+  - Intelligent Systems
+
 Vision:
-  Building futuristic experiences
+  Building futuristic digital experiences
   where creativity meets technology.
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Skills & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,mongodb,mysql,github,vscode&theme=dark"/>
+## 💻 Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,git&theme=dark"/>
+## 🧠 AI • Data Science • Analytics
 
-</div>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Exploration-111827?style=for-the-badge"/>
 
----
+<br><br>
 
-# 🌌 Current Interests
+## 🛠️ Tools & Technologies
 
-- 🤖 Robotics & Automation
-- 🧠 Artificial Intelligence
-- 📊 Data Analytics & Visualization
-- 🌐 Creative Web Experiences
-- ⚡ Futuristic Digital Systems
-- 🎨 Tech + Creativity Fusion
+<img src="https://skillicons.dev/icons?i=github,vscode,mongodb,mysql,git&theme=dark"/>
 
----
+<img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge"/>
 
-# 📊 GitHub Stats
+<br><br>
 
-<div align="center">
+## 🎨 Creative & Leadership
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NashraFatima&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashraFatima&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Content%20Creation-111827?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photography-111827?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Marketing-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creative%20Strategy-111827?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Leadership-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -70,16 +88,6 @@ Vision:
 <img src="https://streak-stats.demolab.com?user=NashraFatima&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI & Data Science Journey
-Exploring Artificial Intelligence, automation, and intelligent systems using Python and modern development tools.
-
-### 🌐 Creative Tech & Community Building
-Combining creativity, leadership, and technology through innovative digital experiences.
 
 ---
 
@@ -109,6 +117,8 @@ Combining creativity, leadership, and technology through innovative digital expe
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NashraFatima&style=for-the-badge&color=7c9cff"/>
+## ✨ Building the Future Through AI, Creativity & Innovation ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=120&section=footer"/>
 
 </div>
