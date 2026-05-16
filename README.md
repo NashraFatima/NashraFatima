@@ -15,16 +15,15 @@
 </div>
 <br>
 
-🟣 Passionate about building futuristic solutions through **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
+✦ Passionate about building futuristic solutions through **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
 
-🟣 Exploring the intersection of **technology**, **innovation**, and **creative problem-solving** to create impactful digital experiences.
+✦ Exploring the intersection of **technology**, **innovation**, and **creative problem-solving** to create impactful digital experiences.
 
-🟣 Driven by an entrepreneurial mindset focused on **leadership**, **automation**, and transforming ambitious ideas into reality.
+✦ Driven by an entrepreneurial mindset focused on **leadership**, **automation**, and transforming ambitious ideas into reality.
 
-🟣 Currently learning and growing in **AI & ML**, **Data Science**, **Advanced Analytics**, and **Intelligent Systems**.
+✦ Currently learning and growing in **AI & ML**, **Data Science**, **Advanced Analytics**, and **Intelligent Systems**.
 
-🟣 Believer in building technology that inspires innovation, empowers people, and shapes the future.
-
+✦ Believer in building technology that inspires innovation, empowers people, and shapes the future.
 <div align="center">
 
 <br>
