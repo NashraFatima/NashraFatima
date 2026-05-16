@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=46&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1300&lines=AI+%26+Data+Analytics;Entrepreneur;Building+Creative+Digital+Experiences;Innovation+%7C+Leadership+%7C+Technology;Turning+Ideas+Into+Impact"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&height=70&lines=AI+%26+Data+Analytics;Entrepreneur;Innovation+%7C+Leadership+%7C+Technology"/>
 
 </div>
 <br>
