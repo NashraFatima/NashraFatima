@@ -1,85 +1,133 @@
-<!-- =========================
-🌌 FUTURISTIC GITHUB PROFILE
-========================= -->
+<!-- 🌌 Futuristic Animated Header -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0F172A&height=300&section=header&text=Nashra%20Fatima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:7C3AED,100:C084FC&height=320&section=header&text=Nashra%20Fatima&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=62&descSize=22)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Crafting+Intelligent+Digital+Experiences;AI+%26+Data+Analytics;Building+Creative+Technology;Robotics+%7C+Automation+%7C+Innovation;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:C084FC&height=3&section=header"/>
 
 </div>
-
----
 
 # ⚡ About Me
 
-```yaml
-Name: Nashra Fatima
-Role: AI & Data Analytics
-
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Analytics
-  - Automation
-  - Creative Technology
-
-Currently Learning:
-  - AI & ML
-  - Data Science
-  - Advanced Analytics
-  - Intelligent Systems
-
-Vision:
-  Building futuristic digital experiences
-  where creativity meets technology.
-```
-
----
-
-# 🚀 Skills & Technologies
-
 <div align="center">
 
-## 💻 Programming & Development
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css&theme=dark"/>
-
-<br><br>
-
-## 🧠 AI • Data Science • Analytics
-
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Exploration-111827?style=for-the-badge"/>
-
-<br><br>
-
-## 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=github,vscode,mongodb,mysql,git&theme=dark"/>
-
-<img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge"/>
-
-<br><br>
-
-## 🎨 Creative & Leadership
-
-<img src="https://img.shields.io/badge/Content%20Creation-111827?style=for-the-badge&logo=youtube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photography-111827?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Marketing-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Creative%20Strategy-111827?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Leadership-7C3AED?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Data+Analytics;Entrepreneur;Building+Creative+Digital+Experiences;Innovation+%7C+Leadership+%7C+Technology;Turning+Ideas+Into+Impact"/>
 
 </div>
 
----
+<br>
+
+🟣 Passionate about building futuristic solutions through **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
+
+🟣 Exploring the intersection of **technology**, **innovation**, and **creative problem-solving** to create impactful digital experiences.
+
+🟣 Driven by an entrepreneurial mindset focused on **leadership**, **automation**, and transforming ambitious ideas into reality.
+
+🟣 Currently learning and growing in **AI & ML**, **Data Science**, **Advanced Analytics**, and **Intelligent Systems**.
+
+🟣 Believer in building technology that inspires innovation, empowers people, and shapes the future.
+
+<div align="center">
+
+<br>
+
+</div>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:C084FC&height=3&section=header"/>
+
+</div>
+
+
+# 🚀 Skills
+
+<div align="center">
+
+<table border="1" style="width:100%; border-collapse:collapse; border:2px solid #A855F7;">
+
+<tr>
+
+<td width="65%" style="border:1px solid #A855F7; padding:20px;">
+
+## 💻 Programming & Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css&theme=dark"/>
+
+</p>
+
+</td>
+
+<td width="35%" style="border:1px solid #A855F7; padding:20px;">
+
+## 🧠 AI, Data Science & Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-1E2A5A?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-1E2A5A?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-1E2A5A?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-1E2A5A?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-1E2A5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Exploration-1E2A5A?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="35%" style="border:1px solid #A855F7; padding:20px;">
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=github,vscode,mongodb,mysql,git&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/n8n-1E2A5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-1E2A5A?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+<td width="65%" style="border:1px solid #A855F7; padding:20px;">
+
+## 🎨 Creative & Leadership
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Content%20Creation-1E2A5A?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photography-1E2A5A?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Video%20Editing-1E2A5A?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Creative%20Strategy-1E2A5A?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Community%20Leadership-1E2A5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Marketing-1E2A5A?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:A855F7,100:C084FC&height=4&section=header"/>
+
+</div>
 
 # 🔥 Contribution Streak
 
@@ -89,7 +137,11 @@ Vision:
 
 </div>
 
----
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:C084FC&height=3&section=header"/>
+
+</div>
 
 # 🌐 Connect With Me
 
@@ -113,12 +165,17 @@ Vision:
 
 </div>
 
----
+</div>
 
 <div align="center">
 
-## ✨ Building the Future Through AI, Creativity & Innovation ✨
+##  Building the Kind of Future I Once Dreamed About 
+</div>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:C084FC&height=3&section=header"/>
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=120&section=footer"/>
 
 </div>
