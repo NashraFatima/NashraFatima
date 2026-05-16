@@ -1,7 +1,6 @@
 <!-- 🌌 Futuristic Animated Header -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:7C3AED,100:C084FC&height=420&section=header&text=Nashra%20Fatima&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=62&descSize=28)
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:7C3AED,100:C084FC&height=300&section=header&text=Nashra%20Fatima&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=62&descSize=22)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:C084FC&height=3&section=header"/>
 
@@ -11,10 +10,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Data+Analytics;Entrepreneur;Building+Creative+Digital+Experiences;Innovation+%7C+Leadership+%7C+Technology;Turning+Ideas+Into+Impact"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1100&lines=AI+%26+Data+Analytics;Entrepreneur;Building+Creative+Digital+Experiences;Innovation+%7C+Leadership+%7C+Technology;Turning+Ideas+Into+Impact"/>
 
 </div>
-
 <br>
 
 🟣 Passionate about building futuristic solutions through **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
