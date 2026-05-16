@@ -1,7 +1,6 @@
 <!-- 🌌 Futuristic Animated Header -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:7C3AED,100:C084FC&height=320&section=header&text=Nashra%20Fatima&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=62&descSize=22)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:7C3AED,100:C084FC&height=420&section=header&text=Nashra%20Fatima&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=62&descSize=28)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:C084FC&height=3&section=header"/>
@@ -169,7 +168,13 @@
 
 <div align="center">
 
-##  Building the Kind of Future I Once Dreamed About 
+<div align="center">
+
+<h4>
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑻𝒐𝒎𝒐𝒓𝒓𝒐𝒘 𝑻𝒉𝒓𝒐𝒖𝒈𝒉 𝑽𝒊𝒔𝒊𝒐𝒏 & 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏
+</h4>
+
+</div>
 </div>
 <div align="center">
 
